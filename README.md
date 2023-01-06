@@ -8,8 +8,8 @@ I have started my journey with plan C++ ad learned many technologies and framewo
 
 * 🌍  I'm based in Visakhapatnam, India
 * ✉️  You can contact me at [sureshbennabatthula@gmail.com](mailto:sureshbennabatthula@gmail.com)
-* 🚀  I'm currently working on [Cryptic - A Fair Lottery](http://cryptic-k6tp.onrender.com/)
-* 🧠  I'm learning Ethers.js
+* 🚀  I'm currently working on [D-drive - A Decentralized drive](https://github.com/Suresh-Ben/D-drive/)
+* 🧠  I'm learning IPFS (and working wit it)
 * ⚡  I used to develop games on unreal engine...
 
 ### Skills
