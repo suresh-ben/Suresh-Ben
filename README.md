@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain dev | Web dev | Student at NIT Jalandhar
 ---------------------------------------------------
 
-I have started my journey with plan C++ ad learned many technologies and frameworks. I have been into game development, web development and now blockchain development. I have a vision that blockchain technology is going to be the future, I want to work and have a future in blockchain technology.
+I have started my journey with plan C++ ad learned many technologies and frameworks. I have been into game development, web development, blockchain development and now micro-services.
 
 * 🌍  I'm based in Visakhapatnam, India
 * ✉️  You can contact me at [sureshbennabatthula@gmail.com](mailto:sureshbennabatthula@gmail.com)
-* 🚀  I'm currently working on [BlueSea - A NFT Maketplace](https://github.com/Suresh-Ben/blue-sea)
-* 🧠  I'm learning Hyperledger
+* 🚀  I'm currently working on [Ticket booking app(using micro servces to make it more optimised)](https://github.com/Suresh-Ben/tickets-micro-service-app)
+* 🧠  I'm learning Micro-services
 * ⚡  I used to develop games on unreal engine...
 
 ### Skills
